@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/smb-movie-mario-kart-1920x1200-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{    
+    text-decoration: none;
+    color: #f9f8f5;
+    font-size: 1.3rem;
+    margin-right: 25px;
+    font-size: 1.5rem;
+}
+img{
+    max-width: 100%;
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+.menu{
+    background-color: #040404;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    align-items: center;
+}
+.logo{
+    width: 54px;
+    margin-left: 50px;
+    margin-bottom: -20px;
+    background-image: url(../img/Captura\ de\ tela\ 2024-08-30\ 145217.png);
+}
+.blog{
+    position: absolute;
+    right: 50px;
+    float: right;
+    width: 450px;
+    top: 100px;
+    height: auto;
+    margin-bottom:-1240px;
+}
+.picture{
+    position: absolute;
+    left: 30px;
+    float: left;
+    width: 450px;
+    top: 445px;
+    height: auto;
+    margin-bottom:-1240px;
+       
+    }
+
+@media screen and (max-width:599px){
+    .menu{
+        visibility: hidden;
+    }
+    
+}
