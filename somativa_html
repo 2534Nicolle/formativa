@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formativa</title>
+    <link rel="stylesheet" href="css/tabelaa.css">
+</head>
+
+<body>
+    <table>
+        <th>           </th>
+        <th>BÁSICO</th>
+        <th>PADRÃO</th>
+        <th>AVANÇADO</th>
+        <tr></tr>
+            <td class="primeira">Preço mensal</td>
+            <td class="cubo1">$29</td>
+            <td class="cubo2">$59</td>
+            <td class="cubo3">$139</td>
+        </tr>
+        <tr>
+            <td class="primeira">Comercial</td>
+            <td class="central">1 usuário completo</td>
+            <td class="central">5 usuários completos</td>
+            <td class="central">Usuários personalizados</td>
+        </tr>
+        <tr>
+            <td class="primeira">Usuários limitados somente leitura</td>
+            <td class="central">1000 visualizações de email</td>
+            <td class="central">1000 visualizações de email</td>
+            <td class="central">Visualizações de email personalizadas</td>
+        </tr>
+        <tr>
+            <td class="primeira">Contatos</td>
+            <td class="central">5 contatos por cliente</td>
+            <td class="central">25 contatos por cliente</td>
+            <td class="central">Contatos ilimitados</td>
+        </tr>
+        <tr>
+            <td class="primeira">Café</td>
+            <td class="central">5 xícaras</td>
+            <td class="central">8 xícaras</td>
+            <td class="central">10 xícaras</td>
+        </tr>
+        <tr>
+            <td> 
+            <td class="blue1">
+                <a href="">ESCOLHA O PLANO</a>
+            </td>
+            <td class="blue2">
+                <a href="">ESCOLHA O PLANO</a>
+            </td>
+            <td class="blue3">
+                <a href="">ESCOLHA O PLANO</a>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
