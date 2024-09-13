@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Mario Siuuuuuuu</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="menu">
+        <section class="logo">
+            <img src="img/cogumelo.png" alt="Chapeu"> 
+        </section>
+        <ul>   
+            <li><a href="inicio.html">Início</a></li>
+            <li><a href="sobre.html">Sobre</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <h1>Tag de Vídeo</h1>
+    <video width="600" height="290" controls>
+        <source src="C:\Users\Nicolle\Documents\LM\Praia Ubatuba\vídeo\VERONA-JUVENTUS 0-3 ｜ HIGHLIGHTS ｜ Vlahovic shines in Juve’s win ｜ Serie A 2024⧸25.mp4" type="video/mp4">
+        <source src="html em 1min.webm" type="video/mp4">
+    </video>
+
+    <img src="img/marioXsonic.webp"alt="BLOG" class="blog">   
+    <img src="img/mario-and-sonic-the-hedgehog-bwheh3f9gd4tpd0a.jpg"alt="Photo" class="picture">
+    <img src="img/imagesMARIO.jpg"alt="Photo" class="photo">
+    
+</body>
+</html>
