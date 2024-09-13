@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/mario-kart.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{    
+    text-decoration: none;
+    color: #f9f8f5;
+    font-size: 1.3rem;
+    margin-right: 25px;
+    font-size: 1.5rem;
+}
+img{
+    max-width: 15%;
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+.menu{
+    background-color: #040404;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+}
+
+td,
+th {
+    padding: .5em;
+    margin: 0;
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    background-color: #EEE;
+}
+
+td {
+    font-weight: bold;
+    background-color:#EEE;
+}
+
+.tab {
+    width: 100%;
+    margin-bottom: .5em;
+    table-layout: fixed;
+}
