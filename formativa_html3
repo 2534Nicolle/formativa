@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hellooooooo</title>
+    <link rel="stylesheet" href="css/stylee.css">
+</head>
+<body>
+    <nav class="menu">
+        <section class="logo">
+         <img src="img/cogumelo.png" alt="Chapeu">
+        </section>
+        <ul>   
+            <li> <a href="index.html"> Voltar ao menu</a>
+        </ul>
+    </nav>
+</body>
+
+<section class="tab">
+    <caption>Vendas por Período</caption>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Período</th>
+                <th>Produto</th>
+                <th>Vendas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+               <td>Janeiro</td>
+               <td>Produto A</td> 
+               <td>150</td>
+            </tr>
+            <tr>
+               <td>Fevereiro</td>
+               <td>Produto B</td>
+               <td>200</td>
+            </tr>
+            <tr>
+                <td>Março</td>
+                <td>Produto C</td>
+                <td>175</td>
+             </tr>
+        </tbody>
+    </table>
+</section>
+</html>
+<head>
