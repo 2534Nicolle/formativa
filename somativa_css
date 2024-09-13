@@ -1,0 +1,135 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+table {
+    border: 1px solid;
+    border-color: black;
+}
+
+td {
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+.primeira {
+    text-align: left;
+    border: 1px solid;
+    border-color:black;
+}
+.central{
+    border: 1px solid;
+    border-color:black;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid;
+    border-color:black;
+    padding: 10px 30px;
+}
+
+a:hover {
+    background-color: #555C66;
+    color: #ffffff;
+}
+
+.central {
+    background-color: #F5F7FA;
+}
+
+th {
+    padding: 15px 0;
+    color:black;
+}
+
+th:nth-child(1) {
+    color: #000;
+    background-color: #F2F2F2;
+    border: 1px solid;
+    border-color:black;
+}
+
+th:nth-child(2) {
+    background-color:white;
+    border: 1px solid;
+    border-color:black;
+}
+
+th:nth-child(3) {
+    background-color: white;
+    border: 1px solid;
+    border-color:black;
+}
+
+th:nth-child(4) {
+    background-color: white;
+    border: 1px solid;
+    border-color:black;
+}
+.cubo1 {
+    background-color: rgb(89, 158, 181);
+    color: white;
+    font-size:xx-large;
+    border: 1px solid;
+    border-color:black;
+}
+.cubo2 {
+    background-color: rgb(23, 140, 180);
+    color: white;
+    font-size:xx-large;
+    border: 1px solid;
+    border-color:black;
+}
+.cubo3 {
+    background-color: rgb(25, 58, 222);
+    color: white;
+    font-size:xx-large;
+    border: 1px solid;
+    border-color:black;
+}
+
+.blue1 {
+    background-color: rgb(89, 158, 181);
+    color: #FFFFFF;
+    border: 1px solid;
+    border-color:black;
+}
+
+.blue1:hover {
+    background-color: #1a3880;
+    color: #ffffff;
+    border: 1px solid;
+    border-color:black;
+}
+.blue2 {
+    background-color: #4561af;
+    color: #FFFFFF;
+    border: 1px solid;
+    border-color:black;
+}
+
+.blue2:hover {
+    background-color: rgb(23, 140, 180);
+    color: #ffffff;
+    border: 1px solid;
+    border-color:black;
+}
+.blue3 {
+    background-color: rgb(25, 58, 222);
+    color: #FFFFFF;
+    border: 1px solid;
+    border-color:black;
+}
+
+.blue3:hover {
+    background-color: #1a3880;
+    color: #ffffff;
+    border: 1px solid;
+    border-color:black;
+}
